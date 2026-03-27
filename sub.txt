@@ -2,4 +2,3 @@ trojan://vpn@91.108.241.73:2025?security=&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20F
 trojan://vpn@147.45.134.186:2025?security=&type=ws&path=/#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%201
 trojan://vpn@185.192.246.197:2025?security=&type=ws&path=/#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%202
 trojan://4Jt6CN%2321.rzQjTEUeDHM@217.170.199.80:21363?security=tls&sni=www.vk.com&allowInsecure=1&type=tcp#%F0%9F%87%B3%F0%9F%87%B4%20%D1%8E%D1%82%20%D1%80%D1%83%D1%81%20%D0%B8%D0%BD%D0%BA%20%D1%80%D0%B0%D0%B1
-socks5://ijwnnuj9g4tk:xwyZkNA7@216.151.184.244:1080#@m_buy+%F0%9F%87%AC%F0%9F%87%A7+ipvanish%F0%9F%91%88%D9%81%D8%A7%DB%8C%D9%84%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%D9%85%D9%88%D8%B1%D8%AF%D9%86%DB%8C%D8%A7%D8%B2%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%DB%8C%D8%AF%D9%88
