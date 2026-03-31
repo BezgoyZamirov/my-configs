@@ -5,3 +5,4 @@ trojan://4Jt6CN%2321.rzQjTEUeDHM@217.170.199.80:21363?allowInsecure=1&sni=www.vk
 socks5://ijwnnuj9g4tk:xwyZkNA7@216.151.184.244:1080#@m_buy+%F0%9F%87%AC%F0%9F%87%A7+ipvanish%F0%9F%91%88%D9%81%D8%A7%DB%8C%D9%84%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%D9%85%D9%88%D8%B1%D8%AF%D9%86%DB%8C%D8%A7%D8%B2%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%DB%8C%D8%AF%D9%88
 anytls://dongtaiwang.com@45.221.98.14:59901/?insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%E2%98%95%EF%B8%8F
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.225:38388#%F0%9F%87%BB%F0%9F%87%B3%2014%20@shadowsockskeys
+vmess://65e2a985-ad20-4486-a7ec-b67b20ee56af@47.90.244.153:8443?encryption=auto&path=%2Fws&security=none&type=ws#%F0%9F%91%9178@oneclickvpnkeys
